@@ -14,7 +14,7 @@ A mechanism for receiving messages on the C# side has been requested in the main
 - https://github.com/dotnet/maui/issues/6446
 - https://github.com/dotnet/maui/discussions/12009
 
-Special thanks to @Eilon previous work implementing the message received handler and the dev tools enable flag for the different platforms.
+Special thanks to @Eilon's previous work implementing the message received handler and the dev tools enable flag for the different platforms.
 
 - https://github.com/Eilon/MauiHybridWebView
 
